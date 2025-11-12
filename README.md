@@ -1,4 +1,4 @@
 # First-Demo
 This is my firsst repositary
 <br>
-Author : Dipanjan Chatterjee
+Author : Dipanjan (GNIT)
